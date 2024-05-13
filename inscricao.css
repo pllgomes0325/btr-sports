@@ -139,7 +139,7 @@ main {
 }
 
 body {
-  background-image: url(/fundoverde.png);
+  background-image: url(./fundoverde.png);
   background-color: #ebf3e7;
   font-family: sans-serif;
   font-size: 1em;

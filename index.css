@@ -47,7 +47,7 @@ font-size: 78px;
 }
 
 main{
-    background-image: url(/fundoverde.png);
+    background-image: url(./fundoverde.png);
     color: #081f15;
     background-color: #0e1613;
 
@@ -113,7 +113,7 @@ nav a:hover{
     color: #ffffff;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: right;
-    width: 4500px;
+    width: 3900px;
     margin: 0px auto;
     padding: 50px 50px 50px 50px;
     text-decoration: none;
@@ -145,17 +145,19 @@ nav a:hover{
 }
 
 div p{
+    font-size: 15px;
     text-align: right;
 }
 
 .imagemtorta{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 10px 70px 70px 0;
-    border-radius: 20%;
+    border-radius: 10%;
     border-color: #ffffff;
 }
 
 .pclass{
+    font-size: 15px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
 }
