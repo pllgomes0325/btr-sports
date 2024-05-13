@@ -1,0 +1,277 @@
+header {
+    background-color: #000000;
+    padding: 20px;
+
+}
+
+
+h1:hover{
+font-size: 78px;
+}
+
+.caixa {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #2aa14e;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    width: 1200px;
+    top: 10px;
+    margin: 0px auto;
+    
+}
+
+.empresa{
+    color: #ffffff;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    vertical-align: center;
+    top: 40px;
+    margin: 0px;
+}
+
+.imagem{
+    width: 30%;
+    margin-right:4000px;
+    margin-top: -120px;
+}
+
+.imagemlogo{
+    width: 40%;
+    height: 40%;
+    margin-right: 2000px;
+}
+
+main{
+    padding: 20px 0;
+    background-image: url(./fundoverde.png);
+    color: #081f15;
+    background-color: #0e1613;
+
+}
+
+.logo-inicio{
+    top: -50px;
+
+}
+
+.imagemdiv{
+    width: 50%;
+}
+
+nav {
+    position: absolute;
+    top: 55px;
+    right: 0px;
+}
+
+nav li {
+    color: #ffffff;
+    text-align: top;
+    display: inline-block;
+    margin: 0 0 10px 5px;
+
+}
+
+.home {
+    width: 20px;
+    height: 20px;
+    padding: 1px;
+}
+
+.bola{
+    width: 20px;
+    height: 20px;
+    padding: 1px;
+}
+
+.telefone{
+    width: 20px;
+    height: 20px;
+    padding: 1px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+
+nav a:hover{
+    color:#8bc56a
+}
+
+.futdiv{
+    font-size: -10000%;
+}
+
+ .produto{
+    padding: 90px 0;
+    text-align: center;
+    width: 100%;
+    margin: -70px auto;
+    font-family: "Nunito", sans-serif;
+    
+ }
+
+ .produto li{
+    display: inline-block;
+    width: 30%;
+    margin: 0 1.5%;
+    padding: 90px 90px;
+    
+}
+
+.borda{
+    border: solid 2px #000000;
+    border-radius: 30px;
+    background: linear-gradient(#d7f8d6, #2fb12f7c );
+    box-shadow: -10px 10px 10px #000000;
+}
+
+.borda2{
+    vertical-align: top;
+    padding: 0 50% ;
+}
+
+.produto li:hover{
+    border-color:rgb(148, 233, 148);
+}
+
+.produto li:active{
+    border-color: rgb(98, 197, 131);
+}
+
+.produto h2{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.produto li:hover h2{
+    font-size: 34px;
+
+}
+
+.voleidiv{
+    width: 100%;
+    padding: 1px 0;
+
+}
+
+.ginasticadiv{
+    width: 100%;
+    padding: 30px 0;
+
+}
+
+.lutadiv{
+    width: 100%;
+    padding: 30px 0;
+
+}
+
+.fut{
+    padding: 20px 0;
+    text-align: top;
+    display: inline-flex;
+    margin-right: 40px;
+    
+}
+ .volei{
+    display: inline-flex;
+    margin-top: 5px;
+    margin-right: 40px; 
+ } 
+
+  .ginastica{
+    display: inline-flex;
+    margin-top: 15px;
+    margin-right: 40px; 
+   }
+
+   .luta{
+    display: inline-flex;
+   }
+
+   
+  .paragrafo{
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 70px;
+    text-align:justify;
+  }
+   
+.manha{
+    padding: 10px 0 0 0;
+    font-size: 18px;  
+    font-weight: bolder;
+
+}
+
+.tarde{
+    padding: 10px 0 0 0;;
+    font-size: 18px;
+    font-weight: bolder;
+
+}
+
+.produto li a{
+    font-size: 18px;
+
+}
+
+.conteudo{
+    padding: 10px 0 0 0;
+    padding: 6px 0;
+    color: #0f3f33;
+}
+
+.produto-descricao{
+    padding: 10px 0 0 0;
+    font-size: 18px;
+    font-weight: bolder;
+
+}
+
+.esporte-vagas{
+    padding: 10px 0 0 0;
+}
+
+footer{
+    text-align: center;
+    background-color: #000000;
+    padding: 40px 0;
+}
+
+footer a{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+
+}
+
+footer a:hover{
+    color:#2aa14e;
+}
+
+
+footer li{
+    padding: 1px 0 10px 10px;
+    text-align: left;
+}
+
+.gif{
+    text-align: block;
+}
+
+
+.copy{
+    color: #bbbbbb;
+    font-size: 15px;
+}
